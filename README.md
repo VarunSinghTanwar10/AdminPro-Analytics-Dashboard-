@@ -59,12 +59,30 @@ This project helped in understanding:
 
 ## 📸 Preview
 
-A professional analytics dashboard featuring:
-- Revenue tracking
-- User statistics
-- Sales analytics
-- Traffic source visualization
-- Customer records management
+### Dashboard Overview
+
+![Dashboard Overview](Screenshots/Dashboard.png)
+
+### Analytics Charts
+
+![Analytics Charts](Screenshots/Charts.png)
+
+### Customer Records
+
+![Customer Records](Screenshots/Table.png)
+
+### Dark Theme
+
+![Dark Theme](Screenshots/DarkTheme.png)
+
+### Light Theme
+
+![Light Theme](Screenshots/LightTheme.png)
+
+### Mobile View
+
+![Mobile View](Screenshots/Mobile.png)
+
 
 ## 🔮 Future Improvements
 
